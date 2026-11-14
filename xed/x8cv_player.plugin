@@ -1,0 +1,6 @@
+[Plugin]
+Loader=python3
+Module=x8cv_player
+IAge=3
+Name=X8CV Player
+Description=Play .x8cv filenames with Enter, press q to stop, or use :videos to list files

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated playback assets
+/data/*
+!/data/README.md
+
+# Local source assets
+/input*.mp4
+/unscii-8.hex
+
+# Local development records and configuration
+/docs/superpowers/
+/.agents/
+/.codex/
+/.aws/
+
+# Editor and OS files
+*~
+*.swp
+.DS_Store
+Thumbs.db
