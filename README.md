@@ -7,6 +7,8 @@ type its `.x8cv` filename and press Enter. The plugin plays the video in
 that document, then displays `The End`. Playback has no audio.
 Press `q` during playback to stop, or use `:videos` followed by Enter to list files.
 
+https://github.com/user-attachments/assets/3e41fcb9-992f-44ca-98e0-401696dee6fc
+
 This started as a Bad Apple demo. The player and its `x8cv` Python package also
 work with other videos that meet the source size requirements below.
 
